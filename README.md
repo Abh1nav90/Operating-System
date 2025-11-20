@@ -3,12 +3,12 @@ Abhinav Jha
 
 
 
-Assignment-1 = https://drive.google.com/file/d/1yj-7VbZwFuffki421juVm1V9bCITnMvl/view?usp=drive_link
+Assignment-1 = https://drive.google.com/file/d/1roDC5S8Pbpxry75wg_hjW_B0YK2QHDQT/view?usp=drive_link
 
-Assignment-2 = https://drive.google.com/file/d/13hPVVEn3nZ5y2XvsfKzrI9pZxiP7Eeaq/view?usp=drive_link
+Assignment-2 = https://drive.google.com/file/d/12Alc_EXUEn5oa72p7rKta3hic1iYd1Ez/view?usp=drive_link
 
-Assignment-3 = https://drive.google.com/file/d/1n6fqudQV6v7EvI_7OB0GJs9ehKXXWWo4/view?usp=drive_link
+Assignment-3 = https://drive.google.com/file/d/1byBofKGZeC7EHSWDVBNPvvPHir5dqez2/view?usp=drive_link
 
-Assignment-4 = https://drive.google.com/file/d/1lRbd04BnbuYiQ0AgfveCqb5nPc8kIAg3/view?usp=drive_link
+Assignment-4 = https://drive.google.com/file/d/1rEfwTF2VywBQJLPD3hZ5am5vMOvp_pLU/view?usp=drive_link
 
 Capstone Assignment = https://drive.google.com/file/d/1NPPK19eJLg32ocsZOhEGbnvyRMEso7Rl/view?usp=drive_link
